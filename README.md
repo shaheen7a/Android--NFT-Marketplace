@@ -5,7 +5,7 @@
 Thanks for checking out this Application.
 
 ![NFT](./showcase/view01.gif)
-![NFT](./showcase/view02.gif)
+![NFT](./showcase/view02.png)
 
 ## Overview
 A Modern NFT Marketplace for Android along with special features and great design.
